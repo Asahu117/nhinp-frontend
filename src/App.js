@@ -430,7 +430,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import './index.css';
-
+//
 // Import all page components from their correct folders
 import MainNavbar from './Components/HomePage/Navbar';
 import InfoSection from './Components/HomePage/InfoSection';
